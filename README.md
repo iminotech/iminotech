@@ -11,7 +11,7 @@ TBW
 + Flutter <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="16" height="16">
 + Haekell <img src="https://cdn.worldvectorlogo.com/logos/haskell.svg" width="16" height="16">
 
-## Tools of My Trade
+## The Tools of My Trade
 + Neovim  <img src="https://github.com/neovim/neovim.github.io/blob/master/logos/neovim-mark.svg" width="16" height="16">
 + Alacritty <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Alacritty_logo.svg" width="16" height="16">
   
