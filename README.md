@@ -1,4 +1,4 @@
-# This is a profile of @iminotech
+# This is a Profile of @iminotech
 
 ## Skills
 
@@ -6,4 +6,12 @@ TBW
 
 ## Main Interests
 
-TBW
++ Julia
++ Rust
++ Flutter
++ Haskell
+
+## Tools of My Trade
+
++ Neovim
++ Alacritty
