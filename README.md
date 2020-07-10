@@ -6,10 +6,10 @@ TBW
 
 ## Main Interests
 
-+ Julia  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/julia.svg" width="32" height="32">
-+ Rust <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/rust.svg" width="32" height="32">
-+ Flutter <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/dart.svg" width="32" height="32">
-+ Haskell <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/haskell.svg" width="32" height="32">
++ Julia  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Julia_Programming_Language_Logo.svg" width="16" height="16">
++ Rust <img src="https://cdn.worldvectorlogo.com/logos/rust.svg" width="16" height="16">
++ Flutter <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="16" height="16">
++ Haskell <img src="https://cdn.worldvectorlogo.com/logos/haskell.svg" width="16" height="16">
 
 ## Tools of My Trade
 
