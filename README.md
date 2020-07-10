@@ -1,4 +1,4 @@
-# This is a Profile of @iminotech
+# This is the GitHub Profile of @iminotech
 <img src= "https://img.shields.io/badge/loves-any%20kind%20of%20art-lightgreen">
 ## Skills
 
